@@ -1,3 +1,6 @@
+<img src="https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F93e1f07b-b92d-4bd7-90b5-1adab5a6cd22%2F%25E1%2584%2589%25E1%2585%25B3%25E1%2584%258F%25E1%2585%25B3%25E1%2584%2585%25E1%2585%25B5%25E1%2586%25AB%25E1%2584%2589%25E1%2585%25A3%25E1%2586%25BA_2023-03-28_%25E1%2584%258B%25E1%2585%25A9%25E1%2584%2592%25E1%2585%25AE_8.38.42.png?id=fe2853cc-cce0-4932-bf5c-821e3eda44b8&table=block&spaceId=7259ba1a-b2b5-4486-bd5c-d91a9add4772&width=2000&userId=0d7b2f52-1938-4977-938a-681b493859bd&cache=v2">
+</br>
+
 # Dobby
 - 도비는 공동생활을 하는 사람들을 위한 가사분담 및 집안일 일정관리 어플리케이션 입니다.
 - [App Store(iOS)](https://apps.apple.com/kr/app/id1658783993), [App Store(WatchOS)](https://apps.apple.com/kr/app/id1658783993?platform=appleWatch)
