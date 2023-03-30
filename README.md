@@ -4,7 +4,6 @@
 # Dobby
 - 도비는 공동생활을 하는 사람들을 위한 가사분담 및 집안일 일정관리 어플리케이션 입니다.
 - [App Store(iOS)](https://apps.apple.com/kr/app/id1658783993), [App Store(WatchOS)](https://apps.apple.com/kr/app/id1658783993?platform=appleWatch)
-<br>
 
 # Updates
 - v1.0.2 : 버그 픽스 및 UI 수정
@@ -13,14 +12,12 @@
 - v0.9.1 : 월간 집안일 조회 기능 및 매일 알람 기능 추가
 - v0.8.2 : 버그 픽스 및 UI 수정
 - v0.8.1 : 도비 iOS 출시
-<br>
 
 # Skills
 
 | iOS                                                                                                                                        | WatchOS                                                                                   |
 |--------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
 | - Clean Architecture, MVVM-C<br>- RxSwift, RxDataSources, RxCocoa, RxGesture, RxMoya<br>- SnapKit, UIKit<br>- Core Data<br>- CocoaPods | - Clean Architecture<br>- RxSwift<br>- SwitUI<br>- WCSession, Swinject<br>- CocoaPods |
-<br>
 
 # Developments
 iOS
