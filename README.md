@@ -2,6 +2,14 @@
 - 집안일 일정관리 서비스 "도비"의 iOS App입니다.
 - App Store : https://apps.apple.com/kr/app/id1658783993
 
+<br>
+# Skills
+|                                                                                                                                               |                                                                                                  |
+|-----------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
+| iOS<br>- Clean Architecture, MVVM-C<br>- RxSwift, RxDataSources, RxCocoa, RxGesture, RxMoya<br>- SnapKit, UIKit<br>- Core Data<br>- CocoaPods | WatchOS<br>- Clean Architecture<br>- RxSwift<br>- SwitUI<br>- WCSession, Swinject<br>- CocoaPods |
+
+<br>
+
 ## Updates
 - v1.0.2 : 버그 픽스 및 UI 수정
 - v1.0.1 : 도비 WatchOS 출시
@@ -16,7 +24,7 @@
 - Kakao, Apple SNS 로그인 개발 및 Oauth 2.0 Authorization 개발
 - 일간, 주간, 월간 집안일 조회, 생성, 수정, 삭제등 집안일 관리 기능 개발
 
-## Skills
+# Skills
 - Clean Architecture, MVVM-C
 - RxSwift, RxCocoa
 - SnapKit
